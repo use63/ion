@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "control panel",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "node src/index.js"
   },
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/use63/ion/issues"
   },
-  "homepage": "https://github.com/use63/ion#readme"
+  "homepage": "https://github.com/use63/ion#readme",
+  "dependencies": {
+    "fastify": "^5.0.0"
+  }
 }
