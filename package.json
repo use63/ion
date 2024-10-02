@@ -1,0 +1,24 @@
+{
+  "name": "ion",
+  "version": "1.0.0",
+  "description": "control panel",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/use63/ion.git"
+  },
+  "keywords": [
+    "control",
+    "panel",
+    "modular"
+  ],
+  "author": "Nori Nofandi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/use63/ion/issues"
+  },
+  "homepage": "https://github.com/use63/ion#readme"
+}
